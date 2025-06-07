@@ -1,0 +1,11 @@
+[
+  {
+    "user_intent": "我要查询订单到了吗？",
+    "dialogue": [
+      {"role": "user", "content": "我要查询订单到了吗？"},
+      {"role": "assistant", "content": "您好！很高兴为您服务。请提供订单号。"},
+      {"role": "user", "content": "1234567890"},
+      {"role": "assistant", "content": "您的订单正在配送途中，预计明天送达。"}
+    ]
+  }
+] 
